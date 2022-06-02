@@ -1,0 +1,18 @@
+
+nav{
+    background-color: rgb(118, 216, 230);
+}
+
+main{
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+footer{
+    background-color: aquamarine;
+}
+#imagencarrusel{
+    width: 350px;
+    height: 350px;
+
+}
+
